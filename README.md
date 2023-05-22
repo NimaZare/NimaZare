@@ -6,7 +6,6 @@
 
 ## ⚡ Tec Stacks
 
-![C#](https://img.shields.io/badge/-C#-00599C?style=flat-square&logo=c)
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NimaZare&theme=cobalt2&show_icons=true&card_width=495px)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NimaZare&show_icons=true&theme=tokyonight)  
 
