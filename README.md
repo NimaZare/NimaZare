@@ -25,4 +25,7 @@ I focused on developing web and ai applications.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-008B8B?style=for-the-badge&logo=tensorflow)
 ![GitHub](https://img.shields.io/badge/-GitHub-FFD700?style=for-the-badge&logo=github)
 
+ 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimaZare&layout=compact&hide_border=true&title_color=7f3ace&text_color=ffffff&bg_color=0d1117" /><br><br><br>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=120&section=footer"/>
